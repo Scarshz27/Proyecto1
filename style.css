@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(47, 155, 56);
+}
+header{
+    background-color: rgb(184, 119, 245);
+}
+img {
+    width: 200px;
+    height: 300px;
+}
+div{
+    background-color: rgba(0, 163, 163, 0.726);
+    text-align: right;
+}
+
+#container1 {
+ background-color: bisque;
+text-align: center;
+}
+.container2 {
+ background-color: rgba(112, 187, 253, 0.733);
+ text-align: right;
+}
