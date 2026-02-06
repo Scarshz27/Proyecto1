@@ -1,5 +1,5 @@
 body {
-    background-color: blanchedalmond;
+    background-color: rgb(115, 41, 145);
 }
 header{
     background-color: rgb(221, 187, 253);
@@ -9,15 +9,15 @@ img {
     height: 300px;
 }
 div{
-    background-color: rgb(53, 201, 201);
+    background-color: rgba(240, 175, 248, 0.918);
     text-align: right;
 }
 
 #container1 {
- background-color: rgb(178, 217, 233);
+ background-color: rgb(240, 175, 248, 0.918);
 text-align: center;
 }
 .container2 {
- background-color: rgba(35, 255, 189, 0.849);
+ background-color: rgba(82, 219, 243, 0.849);
  text-align: right;
 }
