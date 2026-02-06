@@ -2,22 +2,22 @@ body {
     background-color: rgb(247, 121, 184);
 }
 header{
-    background-color: rgb(221, 187, 253);
+    background-color: beige;
 }
 img {
     width: 200px;
     height: 300px;
 }
 div{
-    background-color: rgba(240, 175, 248, 0.918);
+    background-color: beige;
     text-align: right;
 }
 
 #container1 {
- background-color: rgb(240, 175, 248, 0.918);
+ background-color: beige;
 text-align: center;
 }
 .container2 {
- background-color: rgba(231, 170, 255, 0.986);
+ background-color: beige;
  text-align: right;
 }
